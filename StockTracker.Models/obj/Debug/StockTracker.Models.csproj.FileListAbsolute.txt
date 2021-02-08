@@ -1,0 +1,16 @@
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\StockTracker.Models.dll.config
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\StockTracker.Models.dll
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\StockTracker.Models.pdb
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\EntityFramework.dll
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\EntityFramework.xml
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\StockTracker\StockTracker.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\StockTracker\StockTracker.Models\obj\Debug\StockTracker.Models.csprojAssemblyReference.cache
+C:\Projects\StockTracker\StockTracker.Models\obj\Debug\StockTracker.Models.csproj.CoreCompileInputs.cache
+C:\Projects\StockTracker\StockTracker.Models\obj\Debug\StockTracker.Models.csproj.CopyComplete
+C:\Projects\StockTracker\StockTracker.Models\obj\Debug\StockTracker.Models.dll
+C:\Projects\StockTracker\StockTracker.Models\obj\Debug\StockTracker.Models.pdb
