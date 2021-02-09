@@ -66,5 +66,34 @@ namespace StockTracker.Services
                 return query.ToArray();
             }
         }
+
+        public TradeDetail GetTradeById(int id)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Trades
+                        .Single(e => e.TradeId == id && e.OwnerId == _userId);
+                return
+                    new TradeDetail
+                    {
+                        TradeId = entity.TradeId,
+                        Ticker = entity.Ticker,
+                        TradeEntryPrice = entity.TradeEntryPrice,
+                        TradeExitPrice = entity.TradeExitPrice,
+                        CurrentPrice = entity.CurrentPrice,
+                        OpenProfit = entity.OpenProfit,
+                        ClosedProfit = entity.ClosedProfit,
+                        TradeEntryDate = entity.TradeEntryDate,
+                        TradeExitDate = entity.TradeExitDate,
+                        NumberOfDaysInTrade = entity.NumberOfDaysInTrade,
+                        ProfitPerDay = entity.ProfitPerDay,
+                        ReturnOnCapital = entity.ProfitPerDay
+
+                    };
+            }
+
+        }
     }
 }

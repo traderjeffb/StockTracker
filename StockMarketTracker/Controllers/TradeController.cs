@@ -44,6 +44,14 @@ namespace StockMarketTracker.Controllers
                 return View(model);
         }
 
+        public ActionResult Details(int id)
+        {
+            var svc = CreateTradeService();
+            var model = svc.GetTradeById(id);
+
+            return View(model);
+        }
+
         private TradeService CreateTradeService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
