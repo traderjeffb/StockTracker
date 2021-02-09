@@ -14,3 +14,9 @@ C:\Projects\StockTracker\StockTracker.Services\obj\Debug\StockTracker.Services.c
 C:\Projects\StockTracker\StockTracker.Services\obj\Debug\StockTracker.Services.csproj.CopyComplete
 C:\Projects\StockTracker\StockTracker.Services\obj\Debug\StockTracker.Services.dll
 C:\Projects\StockTracker\StockTracker.Services\obj\Debug\StockTracker.Services.pdb
+C:\Projects\StockTracker\StockTracker.Services\bin\Debug\StockTracker.Data.dll
+C:\Projects\StockTracker\StockTracker.Services\bin\Debug\StockTracker.Models.dll
+C:\Projects\StockTracker\StockTracker.Services\bin\Debug\StockTracker.Data.pdb
+C:\Projects\StockTracker\StockTracker.Services\bin\Debug\StockTracker.Data.dll.config
+C:\Projects\StockTracker\StockTracker.Services\bin\Debug\StockTracker.Models.pdb
+C:\Projects\StockTracker\StockTracker.Services\bin\Debug\StockTracker.Models.dll.config

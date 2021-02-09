@@ -55,6 +55,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TradeCreate.cs" />
+    <Compile Include="TradeListItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

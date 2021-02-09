@@ -14,3 +14,5 @@ C:\Projects\StockTracker\StockTracker.Data\obj\Debug\StockTracker.Data.csproj.Co
 C:\Projects\StockTracker\StockTracker.Data\obj\Debug\StockTracker.Data.csproj.CopyComplete
 C:\Projects\StockTracker\StockTracker.Data\obj\Debug\StockTracker.Data.dll
 C:\Projects\StockTracker\StockTracker.Data\obj\Debug\StockTracker.Data.pdb
+C:\Projects\StockTracker\StockTracker.Data\obj\Debug\StockTracker.Data.Migrations.init.resources
+C:\Projects\StockTracker\StockTracker.Data\obj\Debug\StockTracker.Data.csproj.GenerateResource.cache
